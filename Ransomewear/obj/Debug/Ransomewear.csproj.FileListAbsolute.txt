@@ -1,0 +1,9 @@
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\bin\Debug\Ransomewear.exe.config
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\bin\Debug\Ransomewear.exe
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\bin\Debug\Ransomewear.pdb
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\obj\Debug\Ransomewear.csprojResolveAssemblyReference.cache
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\obj\Debug\Ransomewear.Form1.resources
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\obj\Debug\Ransomewear.Properties.Resources.resources
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\obj\Debug\Ransomewear.csproj.GenerateResource.Cache
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\obj\Debug\Ransomewear.exe
+C:\Users\Sunrin\Desktop\Ransomewear\Ransomewear\obj\Debug\Ransomewear.pdb
